@@ -31,4 +31,15 @@
   .poster:hover, .smallPoster:hover {
     transform: scale(1.1);
   }
+
+  .groupCard{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+  }
+
+  .groupCard p{
+    margin-top: 15px;
+  }
   
